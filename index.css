@@ -1,0 +1,8 @@
+.home-page{
+    width: 200px;
+    height: 200px;
+    background-color: #cffa5a;
+    cursor: pointer;
+    text-align: center;
+    line-height: 200px;
+}
